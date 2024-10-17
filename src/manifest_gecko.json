@@ -8,7 +8,8 @@
 		"storage",
 		"unlimitedStorage",
 		"alarms",
-		"https://www.google.com/"
+		"https://www.google.com/",
+		"https://*.gstatic.com/"
 	],
 
 	"options_ui": {
